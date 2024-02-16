@@ -1,0 +1,28 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.heading{
+  text-align: center;
+  font-style: italic;
+}
+input{
+  height: 2rem;
+  border: 1px; 
+  border-radius: 2px ;
+  margin-right: 2rem;
+  font-size: medium;
+  margin-left: 2rem;
+}
+.container{
+  background-color: aqua;
+  height:fit-content;
+}
+p{
+  text-align: center;
+}
+select{
+  size: 2rem;
+}
